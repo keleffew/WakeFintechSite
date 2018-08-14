@@ -36,21 +36,16 @@ send me an email with info here - i.e. (OGB News Articles, BEN engagement, Kevin
 
 Our club has an active relationship with the Blockchain Education Network, a 501(3)c non-profit that connects students interested in blockchain technology across the globe.  BEN leaders have gone on to work on awesome projects like Storj, Augur, IOTA, Rchain, and others.
 
-### Our Team
-  Ted Yerdon, President
-  Rob Michelle, Vice President
-  Luca Sullivan, EXECUTIVE OF AUTOMATED WEALTH ADVISING / WEST COAST CLUB RELATIONS
-  Dan Gantt, Treasurer
-  
-  Alex Brockman, Technology Analyst
-  Kevin Leffew, Advisor and Business Development Manager at Storj Labs
+### Our Advisors
+  Ted Yerdon, IBM
+  Kevin Leffew, Storj Labs
 
 ## About the Wake Fintech Club
 
 ### Our Mission
 The Wake Fintech Group was created in order to facilitate conversation related to the evolving nature of the way we can store, exchange, and invest funds by utilizing advancements in technology. Focus lies on high-growth sectors, including: mobile banking, cryptography, quantitative trading, blockchain, future-facing revenue models, and more.
 
-We hold bi-weekly meetings which are generally free of form – open-table and discussion focused. We hold active discussions in our 'Slack' Group, as well send weekly emails detailing industry updates and highlighting member analysis. All content created by our members will promoted through our Twitter, Medium, website, and email channels
+We hold bi-weekly meetings which are generally free of form – open-table and discussion focused. We hold active discussions in our 'Slack' Group, as well send weekly emails detailing industry updates and highlighting member analysis. All content created by our members will promoted through our Twitter, Medium, website, and email channels.
 
 The Wake Fintech Group has three primary goals:
 
