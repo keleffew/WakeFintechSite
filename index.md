@@ -1,14 +1,14 @@
 ## Welcome to Wake Fintech
 
-Come learn about the different ways that technology can directly connect users that disrupts the existing financial infrastructure
+Come learn about the different ways that technology can directly connect users in ways that disrupt the existing financial infrastructure
 
-### Join the club!
+### [Join the club!](wakefintech-signup-form)
 
 ## The purpose of this club
 
 1. **Industry Connection**
 
-We actively engage leading firms outside of the classroom. We have spent the last two years developing personal relationships with employees at Fortune 500 companies as well as leading, high growth start-ups. We actively contribute to open-source code, claim bounties in exchange for crypto, and perform high level analysis of projects in the bleeding-edge of the Financial-Technology sector on our blog.
+We actively engage leading firms outside of the classroom. We have spent the last three years developing personal relationships with employees at Fortune 500 companies as well as leading, high growth start-ups. We actively contribute to open-source code, claim bounties in exchange for crypto, and perform high level analysis of projects in the bleeding-edge of the Financial-Technology sector on our blog.
 
 2. **The Transformation of Banking**
 
@@ -24,14 +24,17 @@ Learn how high-frequency trading (HFT) has disrupted the investment banking indu
 
 5. **Blockchain**
 
-A blockchain is a cryptographically verified ledger distributed to all active participants in a network. As a result of cryptography and the 'network effect' it is hacker proof. The blockchain is a key concept related to Fintech and has many applications in the realm of IOT, smart-contracts, and digital conflict resolution.
+A blockchain is a cryptographically verified ledger distributed to all active participants in a network. As a result of cryptography and the 'network effect' it is hacker proof. The blockchain is a key concept related to Fintech and has many applications in the realm of IOT, smart-contracts, and digital conflict resolution.  We actively study core blockchain concepts so that students will be prepared for careers in cutting-edge financial technology.
 
-6. **Cryptocurrencies**
+6. **Cryptocurrencies and Tokens**
 
-Focusing on the 'Big 4' – Ethereum, Bitcoin, Zcash, and Ripple –we will address the theory behind how cryptocurrencies work as well as how they are being implemented across the web. Domestic and international regulatory schemes will be covered as well as meaningful use cases.
+We will address the theory behind how cryptocurrencies and smart-contract tokens work as well as how they are being implemented across the web. Domestic and international regulatory schemes will be covered - with an emphasis on core precedent such as the Howey Test.  Meaningful use cases within the real world will be covered as well.
+
 
 ## Our History and Accomplishments
-send me an email with info here - i.e. News Articles, BEN engagement, Kevin O'leary engagemnt, etc.
+send me an email with info here - i.e. (OGB News Articles, BEN engagement, Kevin O'leary engagemnt, Blockchain Madness, hackathons, etc.)
+
+Our club has an active relationship with the Blockchain Education Network, a 501(3)c non-profit that connects students interested in blockchain technology across the globe.  BEN leaders have gone on to work on awesome projects like Storj, Augur, IOTA, Rchain, and others.
 
 ### Our Team
   Ted Yerdon, President
@@ -53,4 +56,4 @@ The Wake Fintech Group has three primary goals:
 
 1. **To foster** interest on Wake’s campus in the industry through hosting relevant guest speakers, brand evangelists, and tech workshopsover the course of the semester.
 2. **To learn** Wake Fintech will provide biweekly industry updates, as well as an actively curated Medium publication where members can help foster their understanding of industry trends and developments. Whether a slack group member, or recipient of the mailing list, the goal of this club to provide a unique learning opportunity for all people..
-3. **To build** financial adaptability. The blockchain facilitates a new paradigm how we manage, exchange, and invest our money. As a cutting-edge club, we strive to be frontrunners in this movement through adapting, in whatever ways we can, to the rapidly transforming monetary world..</li>
+3. **To build** financial adaptability. The blockchain facilitates a new paradigm how we manage, exchange, and invest our money. As a cutting-edge club, we strive to be frontrunners in this movement through adapting, in whatever ways we can, to the rapidly transforming monetary world.
